@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.linkedlist3;
+package com.mycompany.leetcodeproblems;
 
 /**
  *
@@ -11,7 +11,7 @@ package com.mycompany.linkedlist3;
 public class LinkedList3 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello World44!");
         
         llist3 mylist1=new llist3();
         llist3 mylist2=new llist3();
@@ -26,9 +26,10 @@ public class LinkedList3 {
 //        mylist2.append(2);
 //        mylist2.append(3);
 //       
-        mylist1.append(0);mylist2.append(0);
+        mylist1.append(0);
+      //  mylist2.append(0);
       
-         mylist2.append(3);
+     //    mylist2.append(3);
         llist3 newlist=new llist3();
        // mylist2.printls();
         
