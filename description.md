@@ -1,6 +1,6 @@
 #description
 
-
+git status 
 git add "file name" 
 git add .       --add all files
 
